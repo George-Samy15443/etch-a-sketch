@@ -9,8 +9,8 @@
 
 .grid-item {
   /* Subtracts the gap overhead from the 16 columns */
-  width: calc((100% - (15 * 2px)) / 16);
-  height: calc((100% - (15 * 2px)) / 16);
+  /* width: calc((100% - (15 * 2px)) / 16);
+  height: calc((100% - (15 * 2px)) / 16); */
   background-color: #333;
 }
 
